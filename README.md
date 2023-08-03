@@ -31,7 +31,5 @@ Step 7: Open up the browser and type http://localhost/Library-Management-System/
 Note (for admin login):- Only the employee with designation as "Librarian" can login to the admin section with his faculty ID and password. Hence register for librarian through register JSSSTU Faculty option.
 
 
-✍️ Author
-B Sathvik Shenoy (https://github.com/Sathvik-Shenoy)
 
 "# LIbrary_Management" 
